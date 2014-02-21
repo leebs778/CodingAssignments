@@ -1,0 +1,18 @@
+to do list
+
+Implementations to put into the program:
+
+	-regexes for retrieing data fields
+		b) acquiring datafields using regexes
+	
+	-Clean up output so events on the same startdate are ordered according to lexographical
+	order
+		-> simple swapping with an if statement
+	-Events may overlap in time
+	-Events may overlap in days
+
+Completed Aspects of the Assignment:
+
+	X-storing (mulitple) command line file names
+	X-TimeZone offset 
+	X-Accomate Repeating events before eliminating based on start date guap

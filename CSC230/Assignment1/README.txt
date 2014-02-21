@@ -1,0 +1,2 @@
+Goal for this assignment was to read in a 2 dimensional array of 1s and 0s, convert it to the ASCII + and &
+depending on the bit value, and then to do some operations on that 2d array (scaling up, rotating 90 degress ... )
